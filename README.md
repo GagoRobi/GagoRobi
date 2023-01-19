@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning at Codecool
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My cat's name is Esther.
+- 💻 I’m currently learning at Codecool
+- 🙋‍♂️ Pronouns: he/him
+- 🐱 Fun fact: My cat's name is Esther.
