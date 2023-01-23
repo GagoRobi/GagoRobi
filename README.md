@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 💻 I’m currently learning at Codecool
 - 🙋‍♂️ Pronouns: he/him
-- 🐱 Fun fact: My cat's name is Esther.
+- ⚡ Fun fact: Nutmeg is a hallucinogen.
