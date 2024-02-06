@@ -3,7 +3,7 @@
   I recently finished my studies at Codecloo as a Full-stack developer. I am looking forward to try myself out in this exciting field! 😊
 
 #### My Contancts
-[![linkedin-shield]][linkedin-url]
+[![linkedin-shield]][linkedin-url] <br/>
 ![gmail-shield] - gagorobi96@gmail.com
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
