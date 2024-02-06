@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-<!--
-**GagoRobi/GagoRobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I recently finished my studies at Codecloo as a Full-stack developer. I am looking forward to try myself out in this exciting field! 😊
 
-Here are some ideas to get you started:
+#### My Contancts
+[![linkedin-shield]][linkedin-url]
+![gmail-shield] - gagorobi96@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 💻 I’m currently learning at Codecool as a Full-stack developer.
-- 💬 My LinkedIn profile: linkedin.com/in/róbert-gágó-a44578286
-
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/r%C3%B3bert-g%C3%A1g%C3%B3-a44578286/
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
