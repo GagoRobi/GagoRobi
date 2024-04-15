@@ -3,7 +3,7 @@
   I recently finished my one year long intensive studies at CodeCool as a Full-stack developer. During this time I've partaken in many practice oriented projects, in both `solo` and `team` setting! I am eager to start working and to further develop my skills in this field! 😊
   
 #### My Studies include:
-* [![Next.js]][Next-url]
+* [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en)
 * [![Java.com]][Java-url]
 * [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://en.wikipedia.org/wiki/JavaScript)
 * [![React.js]][React-url]
